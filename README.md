@@ -2,7 +2,9 @@
 
 Simple, minimalist, spartan, lightweight, single-class deep learning experiment tracker. Also, library agnostic.
 
-* no docs, tutorial, or supports
+* no installation. Just put the .py file in your project.
+
+* no docs, tutorial, or supports (I got a sample code though...)
 
 * does not automate runs
 
